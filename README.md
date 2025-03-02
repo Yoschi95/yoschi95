@@ -3,8 +3,6 @@
 
 - 🔭 I’m currently working on **my personal website**
 
-- 🌱 I’m currently learning **React.js**
-
 - 👯 I’m looking to collaborate on **web application projects**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Yoschi95](https://github.com/Yoschi95)
