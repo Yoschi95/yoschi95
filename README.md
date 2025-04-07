@@ -7,6 +7,8 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Yoschi95](https://github.com/Yoschi95)
 
+- 🌐 Take a look at my [portfolio website](https://yoschi95.github.io/)
+
 - 📫 How to reach me **yoschi95@mail.de**
 
 <h3 align="left">Connect with me:</h3>
