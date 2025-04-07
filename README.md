@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Yoschi</h1>
 <h3 align="center">A passionate software developer from Berlin, Germany</h3>
 
-- 🔭 I’m currently working on **my personal website**
+- 🔭 I’m currently working on **a weather application**
 
 - 👯 I’m looking to collaborate on **web application projects**
 
